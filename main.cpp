@@ -1,8 +1,5 @@
 /*
-Name: Joshua Choi, 5007546981, CS 135 1008, Assignment 4
-Description: A game of matches
-Input: choice, matches, numbers.
-Output: amount of matches.
+@Author: Azjinsol
 */
 #include <iomanip>
 #include <cmath>
